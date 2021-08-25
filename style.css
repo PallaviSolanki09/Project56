@@ -1,0 +1,48 @@
+body{
+    text-align:center;
+    background-size:contain;
+    background-image:url("https://i.pinimg.com/originals/4d/ef/c5/4defc5b00247ead5c029db590045cdb1.gif");
+}
+img{
+    width:300px;
+    height:300px;
+    padding-left:10px; 
+    padding-right:10px; 
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:20px;
+    margin-left:20px;
+    border-style:ridge;
+    border-width:10px;
+    border-color:pink;
+}
+h1{
+   font-family: 'Rampart One', cursive;
+   font-size:40px;
+   color:pink;
+}
+#Text1{
+    padding-top:100px;
+    padding-right:250px;
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    color:pink;
+}
+#Text2{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    color:pink;
+}
+#Text3{
+    padding-top:100px;
+    padding-right:250px;
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    color:pink;
+} 
+#Text4{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    color:pink;
+}
+
